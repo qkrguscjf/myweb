@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `박현철 수준 이레+조준영`,
+    title: `윤은혁 미래 아들 조준영 딸 이례`,
     author: {
       name: `Kyle Mathews`,
       summary: `who lives and works in San Francisco building useful things.`,
